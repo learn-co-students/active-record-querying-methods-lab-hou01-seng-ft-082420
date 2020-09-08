@@ -1,6 +1,7 @@
 require "bundler/setup"
 require 'yaml'
 require 'active_record'
+require '/Users/ben/flatiron/work/mod1ruby/active-record-querying-methods/db/app/models/show.rb'
 
 Bundler.require
 
